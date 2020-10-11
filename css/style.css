@@ -18,7 +18,7 @@
  color: white;
  font-size: 150%;
  margin-left: 40%;
- margin-top: 30px;
+ margin-top: 2%;
 }
 #botao1:hover{
   text-decoration:underline;
@@ -37,7 +37,7 @@
  color: white;
  font-size: 150%;
  margin-left: 60%;
- margin-top: 30px;
+ margin-top: 2%;
 }
 #botao3{
  position: absolute;
@@ -45,7 +45,7 @@
  color: white;
  font-size: 150%;
  margin-left: 80%;
- margin-top: 30px;
+ margin-top: 2%;
 }
 
 #back{

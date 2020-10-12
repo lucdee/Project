@@ -111,7 +111,7 @@
    text-decoration: none;
    color: white;
    font-size: 200%;
-   margin-left: 50%;
+   margin-left: 55%;
    margin-top: 7%;
   }
   #botao3{
@@ -128,8 +128,6 @@
     height: 150%;
   }
 
-
-
   #whats{
     position: absolute;
     margin-left: 4px;
@@ -141,12 +139,11 @@
 
   #maps{
     position: absolute;
-    margin-left: 82%;
+    margin-left: 84%;
     margin-top: 100%;
     height: 150px;
     width: 150px;
     box-shadow: 0px 5px 5px rgba(1,1,1,0.5);
   }
-
 
 }

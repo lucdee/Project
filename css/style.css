@@ -124,7 +124,7 @@
   }
 
   #back{
-    width: 110%;
+    width: 105%;
     height: 150%;
   }
 
@@ -141,7 +141,7 @@
 
   #maps{
     position: absolute;
-    margin-left: 90%;
+    margin-left: 86%;
     margin-top: 100%;
     height: 150px;
     width: 150px;

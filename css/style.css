@@ -217,9 +217,9 @@ position: absolute;
    position: absolute;
    text-decoration: none;
    color: white;
-   font-size: 150%;
+   font-size: 200%;
    margin-left: 40%;
-   margin-top: 2%;
+   margin-top: 8%;
   }
   #botao1:hover{
     text-decoration:underline;

@@ -162,7 +162,7 @@ position: absolute;
 
 #maps{
   position: absolute;
-  margin-left: 92%;
+  margin-left: 93%;
   margin-top: 570px;
   height: 80px;
   width: 80px;
@@ -209,7 +209,7 @@ position: absolute;
   #logo{
     box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
     margin-left: 20px;
-    width: 15%;
+    width: 20%;
     height: 150%;
     position: absolute;
   }
@@ -219,7 +219,7 @@ position: absolute;
    color: white;
    font-size: 200%;
    margin-left: 40%;
-   margin-top: 8%;
+   margin-top: 7%;
   }
   #botao1:hover{
     text-decoration:underline;
@@ -236,17 +236,17 @@ position: absolute;
    position: absolute;
    text-decoration: none;
    color: white;
-   font-size: 150%;
+   font-size: 200%;
    margin-left: 60%;
-   margin-top: 2%;
+   margin-top: 7%;
   }
   #botao3{
    position: absolute;
    text-decoration: none;
    color: white;
-   font-size: 150%;
+   font-size: 200%;
    margin-left: 80%;
-   margin-top: 2%;
+   margin-top: 7%;
   }
 
   #back{
@@ -355,18 +355,18 @@ position: absolute;
   #whats{
     position: absolute;
     margin-left: 4px;
-    margin-top: 570px;
-    height: 80px;
-    width: 80px;
+    margin-top: 93%;
+    height: 150px;
+    width: 150px;
     box-shadow: 0px 5px 5px rgba(0,0,0,0.5);
   }
 
   #maps{
     position: absolute;
-    margin-left: 1260px;
-    margin-top: 570px;
-    height: 80px;
-    width: 80px;
+    margin-left: 93%;
+    margin-top: 93%;
+    height: 150px;
+    width: 150px;
     box-shadow: 0px 5px 5px rgba(1,1,1,0.5);
   }
 

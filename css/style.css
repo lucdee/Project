@@ -218,7 +218,7 @@ position: absolute;
    text-decoration: none;
    color: white;
    font-size: 200%;
-   margin-left: 40%;
+   margin-left: 30%;
    margin-top: 7%;
   }
   #botao1:hover{
@@ -245,13 +245,13 @@ position: absolute;
    text-decoration: none;
    color: white;
    font-size: 200%;
-   margin-left: 80%;
+   margin-left: 90%;
    margin-top: 7%;
   }
 
   #back{
-    width: 100%;
-    height: 100%;
+    width: 120%;
+    height: 150%;
   }
 
   #foto{

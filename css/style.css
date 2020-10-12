@@ -131,7 +131,7 @@
   #whats{
     position: absolute;
     margin-left: 4px;
-    margin-top: 100%;
+    margin-top: 150%;
     height: 150px;
     width: 150px;
     box-shadow: 0px 5px 5px rgba(0,0,0,0.5);
@@ -140,7 +140,7 @@
   #maps{
     position: absolute;
     margin-left: 84%;
-    margin-top: 100%;
+    margin-top: 150%;
     height: 150px;
     width: 150px;
     box-shadow: 0px 5px 5px rgba(1,1,1,0.5);

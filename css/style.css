@@ -87,7 +87,7 @@
   margin-top: 200px;
   margin-left: 80px;
   background-color: #00BFFF;
-
+box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
 }
 .card2{
   position: relative;
@@ -97,7 +97,7 @@
   margin-top: 200px;
   margin-left: 500px;
   background-color: #00BFFF;
-
+box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
 }
 .card-title{
  color: black;
@@ -195,6 +195,7 @@
     margin-top: 200px;
     margin-left: 80px;
     background-color: #00BFFF;
+box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
 
   }
   .card2{
@@ -205,6 +206,7 @@
     margin-top: 200px;
     margin-left: 500px;
     background-color: #00BFFF;
+box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
 
   }
   .card-title{

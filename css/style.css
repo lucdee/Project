@@ -240,7 +240,7 @@ box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
   #tit{
     position: absolute;
     font-size: 70px;
-    top: 100px;
+    top: 200px;
     left:500px;
   }
 }

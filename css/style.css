@@ -86,8 +86,8 @@
   border-radius: 10px;
   margin-top: 200px;
   margin-left: 80px;
-  background-color: #4169E1;
-  opacity: 0.8;
+  background-color: #00BFFF;
+
 }
 .card2{
   position: relative;
@@ -96,8 +96,8 @@
   border-radius: 10px;
   margin-top: 200px;
   margin-left: 500px;
-  background-color: #4169E1;
-  opacity: 0.8;
+  background-color: #00BFFF;
+
 }
 .card-title{
  color: black;
@@ -194,8 +194,8 @@
     border-radius: 10px;
     margin-top: 200px;
     margin-left: 80px;
-    background-color: #4169E1;
-    opacity: 0.8;
+    background-color: #00BFFF;
+
   }
   .card2{
     position: relative;
@@ -204,8 +204,8 @@
     border-radius: 10px;
     margin-top: 200px;
     margin-left: 500px;
-    background-color: #4169E1;
-    opacity: 0.8;
+    background-color: #00BFFF;
+
   }
   .card-title{
    color: black;

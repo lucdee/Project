@@ -73,8 +73,8 @@
 }
 #trat{
   position: absolute;
-  margin-top: 20px;
-  margin-left: 34%;
+  margin-top: 40px;
+  margin-left: 33%;
   color: black;
   font-size: 50px;
 }
@@ -181,8 +181,8 @@ box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
 
   #trat{
     position: absolute;
-    margin-top: 20px;
-    margin-left: 33%;
+    margin-top: 40px;
+    margin-left: 32%;
     color: black;
     font-size: 50px;
   }

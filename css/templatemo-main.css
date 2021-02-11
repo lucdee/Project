@@ -20,7 +20,7 @@ section {
 body {
   position: relative; /* we need this for the scrollspy */
   font-size: 14px;
-  background-color: #191970;
+  background-color: #000437;
 }
 
 a { color: #3CC; }
@@ -496,7 +496,7 @@ footer em {
 
 
   .baner-content h1 {
-    font-size: 64px;
+    font-size: 30px;
   }
 
   .baner-content em {
@@ -764,7 +764,7 @@ body.lb-disable-scrolling {
 #conhecimento{
   color: white;
   padding-left: 36%;
-  padding-bottom: 15px;
+
 }
 .lb-data .lb-close:hover {
   cursor: pointer;
